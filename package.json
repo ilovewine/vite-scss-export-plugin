@@ -1,0 +1,11 @@
+{
+  "name": "vite-scss-export-plugin",
+  "version": "1.0.0",
+  "description": "Vite plugin to export scss variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Piątkowski",
+  "license": "ISC"
+}
